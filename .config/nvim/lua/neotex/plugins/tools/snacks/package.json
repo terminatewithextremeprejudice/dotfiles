@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "npmcli": "^1.2.2"
+  }
+}

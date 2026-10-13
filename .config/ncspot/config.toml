@@ -1,0 +1,14 @@
+[theme]
+title = "green"
+playing_selected = "green"
+highlight = "light white"
+highlight_bg = "blue"
+statusbar = "blue"
+primary = "cyan"
+
+statusbar_format = "%artists - %title"
+
+[track_format]
+left = "%artists - %title"
+center = "%album"
+right = "%saved %duration"
